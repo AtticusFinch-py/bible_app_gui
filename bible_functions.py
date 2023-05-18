@@ -2,7 +2,7 @@ import sys
 import requests
 import json
 
-API_KEY = '7caf2d4d258d691616e8e235d931fce7956d149f'
+API_KEY = 
 API_URL = 'https://api.esv.org/v3/passage/text/'
 
 # Load the JSON data
