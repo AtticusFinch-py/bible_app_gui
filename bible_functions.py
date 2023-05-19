@@ -1,8 +1,9 @@
-import sys
 import requests
 import json
 
-API_KEY = 
+API_KEY =
+
+
 API_URL = 'https://api.esv.org/v3/passage/text/'
 
 # Load the JSON data
